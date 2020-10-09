@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/SudeepMi/SudeepMi/Sudeep.png "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/SudeepMi/SudeepMI/main/Sudeep.png "Header")](https://some-url.dev/)
 ### Hi there 👋
 
 <!--
