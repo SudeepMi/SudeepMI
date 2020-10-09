@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on Making PWAs and Browser plugins.
 - 🤔 I’m looking for help with Personality development.
 - 💬 Ask me about PHP and it's frameworks, JS Libraries and backend dev.
-- 📫 How to reach me: <a href="tel:+9779808383500">+977 9808383500</a>
+- 📫 How to reach me: <a href="tel:+9779808383500">+977 9808383500</a> | <a href="mailto:sudeepm0599@gmail.com">sudeepm0599@gmail.com</a> | http://sudeepmishra.com.np
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
