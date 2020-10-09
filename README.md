@@ -9,13 +9,13 @@
 - 👯 I’m looking to collaborate on Making PWAs and Browser plugins.
 - 🤔 I’m looking for help with Personality development.
 - 💬 Ask me about PHP and it's frameworks, JS Libraries and backend dev.
-- 📫 How to reach me: <a tel:"+9779808383500">+977 9808383500</a>
+- 📫 How to reach me: <a href="tel:+9779808383500">+977 9808383500</a>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
