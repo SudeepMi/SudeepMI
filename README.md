@@ -24,5 +24,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 [1]: https://twitter.com/codewithsudeep
 [2]: https://www.linkedin.com/in/sudeep-mishra-845938159
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SudeepMi&show_icons=true&theme=radical)
+![Sudeep's github stats](https://github-readme-stats.vercel.app/api?username=SudeepMi&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SudeepMi&layout=compact)](https://github.com/SudeepMi/github-readme-stats)
+
 
