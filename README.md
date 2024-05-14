@@ -26,6 +26,10 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 ![Sudeep's github stats](https://github-readme-stats.vercel.app/api?username=SudeepMi&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SudeepMi&layout=compact)](https://github.com/SudeepMi/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sudeepmi&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=sudeepmi&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
 
 [![@sudeepmi's Holopin board](https://holopin.me/sudeepmi)](https://holopin.io/@sudeepmi)
 
