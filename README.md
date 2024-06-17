@@ -6,9 +6,9 @@
 - 🌱 I’m currently learning PWA
 - 👯 I’m looking to collaborate on Making PWAs, Browser plugins and Dapps.
 - 🤔 I’m looking for help with Personality development.
-- 💬 Ask me about PHP and it's frameworks, JS Libraries and backend dev.
-- 📫 How to reach me: <a href="tel:+9779810697766">+9779810697766</a> | <a href="mailto:sudeepm0599@gmail.com">sudeepm0599@gmail.com</a
-- ⚡ Fun fact: I'm developer without college degree.
+- 💬 Ask me about PHP and its frameworks, JS Libraries and backend dev.
+- 📫 How to reach me: <a href="tel:+9779810697766">+9779810697766</a> | <a href="mailto:sudeepm0599@gmail.com">sudeepm0599@gmail.com</a>
+- ⚡ Fun fact: I'm a developer without a college degree.
 
 <!-- Actual text -->
 
@@ -16,7 +16,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1.2]: http://i.imgur.com/wWzX9uB.png (Twitter icon without padding)
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
